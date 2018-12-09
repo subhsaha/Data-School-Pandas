@@ -1,2 +1,3 @@
 # Data-School-Pandas
-Notes from Data School Tutorials - https://bit.ly/2lhBk8u
+2. How to read tabular data file into Pandas ? - https://bit.ly/2B94psW
+3. 
